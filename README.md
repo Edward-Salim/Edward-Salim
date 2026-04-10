@@ -5,7 +5,7 @@ I am a robust builder focused on the **Fintech** sector. I operate at the inters
 ---
 
 ### Featured Projects
-* **Project Name** – A fintech solution solving [problem] using [tech].
+* 🦆 **[Produck](https://github.com/Edward-Salim/Produck)** – An end-to-end product management support website.
 
 ---
 
