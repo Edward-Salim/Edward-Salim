@@ -1,16 +1,15 @@
-## Hi there 👋
+# Edward Salim | Product & Engineering 🗿
 
-<!--
-**Edward-Salim/Edward-Salim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a robust builder focused on the **Fintech** sector. I operate at the intersection of **Software Engineering** and **Product Management**, backed by a multidisciplinary background in **Data Science**, **Marketing**, and **Testing**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+* **Project Name** – A fintech solution solving [problem] using [tech].
+
+---
+
+### Expertise
+* **Building:** Engineering scalable, high-performance financial systems.
+* **Product:** Strategy, roadmap execution, and user-centric design.
+* **Analysis:** Data science insights, A/B testing, and growth marketing.
