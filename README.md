@@ -10,6 +10,6 @@ I am a robust builder focused on the **Fintech** sector. I operate at the inters
 ---
 
 ### Expertise
-* **Building:** Engineering scalable, high-performance financial systems.
+* **Building:** Engineering scalable, high-performance systems.
 * **Product:** Strategy, roadmap execution, and user-centric design.
 * **Analysis:** Data science insights, A/B testing, and growth marketing.
