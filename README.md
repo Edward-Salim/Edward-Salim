@@ -6,17 +6,11 @@ I am a robust builder focused on the **Fintech** sector. I operate at the inters
 
 ### Featured Projects
 
-* 🦆 **[Produck](https://produck-ewod.netlify.app/)**  
-  A personal and private tooling SaaS website featuring product management utilities, background removal tools, and product cadence support workflows.
-
-* 📸 **[WSM](https://wangsiumek.netlify.app/)**  
-  A photo gallery app built with friends, featuring music, auto-scroll, and a Google Photos scraping-based gallery experience.
-
-* 📈 **[Investika](https://investika.netlify.app/)**  
-  An AI-assisted investment discovery platform built around regional investment opportunities, using PID data from Indonesia’s Ministry of Investment. Includes investment search, regional news aggregation, and opportunity exploration features.
-
-* 🏆 **[K-Win](https://rekam-147377990525.asia-southeast2.run.app/)**  
-  A portfolio discovery platform for showcasing award-winning student competition portfolios, helping others explore, learn from, and benchmark against successful university-level projects.
+* 🦆 **[Produck](https://produck-ewod.netlify.app/)** - Personal tooling SaaS with background removal, product management utilities, and cadence workflows.
+* 📸 **[WSM](https://wangsiumek.netlify.app/)** - Photo gallery app with music, auto-scroll, and Google Photos scraping-based galleries.
+* 📈 **[Investika](https://investika.netlify.app/)** - AI-assisted regional investment search platform with PID data and news aggregation.
+* 🏆 **[K-Win](https://rekam-147377990525.asia-southeast2.run.app/)** - Portfolio discovery platform for award-winning student competition projects.
+* 🦉 **[K-Owl](https://kowl-fe-prod-147377990525.asia-southeast2.run.app/)** - AI-powered LMS akin to Moodle, with AI question bank generation and learning management tools.
 
 ---
 
